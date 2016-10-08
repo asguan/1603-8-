@@ -5,7 +5,7 @@
 .top{
     width: 1920px;
     height: 50px;
-    background:url("img/it_02.png") no-repeat 19% 70% #303a40;
+    background:url("../img/it_02.png") no-repeat 19% 70% #303a40;
 }
 .t1{
     font-size:30px;
